@@ -1,10 +1,13 @@
-# practice
+This repository houses a versatile application designed to streamline interactions with SharePoint lists. Our app simplifies the tasks of updating, deleting, creating, and retrieving data from SharePoint lists, making it a powerful tool for managing your SharePoint data.
 
-## Summary
+Key Features:
 
-Short summary on functionality and used technologies.
-
-[picture of the solution in action, if possible]
+## Create: Effortlessly add new items to SharePoint lists with just a few clicks.
+## Retrieve: Retrieve and display data from SharePoint lists with ease, ensuring you always have the information you need at your fingertips.
+## Update: Seamlessly update existing records, maintaining data accuracy and relevance.
+## Delete: Remove unwanted items from SharePoint lists in a straightforward and secure manner.
+## User-Friendly Interface: Our app offers an intuitive and user-friendly interface, ensuring that both experienced SharePoint administrators and beginners can work efficiently.
+## Automation: Take advantage of automation capabilities to schedule routine tasks or respond to specific triggers.
 
 ## Used SharePoint Framework Version
 
@@ -20,19 +23,6 @@ Short summary on functionality and used technologies.
 ## Prerequisites
 
 > Any special pre-requisites?
-
-## Solution
-
-| Solution    | Author(s)                                               |
-| ----------- | ------------------------------------------------------- |
-| folder name | Author details (name, company, twitter alias with link) |
-
-## Version history
-
-| Version | Date             | Comments        |
-| ------- | ---------------- | --------------- |
-| 1.1     | March 10, 2021   | Update comment  |
-| 1.0     | January 29, 2021 | Initial release |
 
 ## Disclaimer
 
