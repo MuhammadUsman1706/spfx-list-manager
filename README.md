@@ -2,12 +2,12 @@ This repository houses a versatile application designed to streamline interactio
 
 Key Features:
 
-** Create: Effortlessly add new items to SharePoint lists with just a few clicks. **
-** Retrieve: Retrieve and display data from SharePoint lists with ease, ensuring you always have the information you need at your fingertips. **
-** Update: Seamlessly update existing records, maintaining data accuracy and relevance. **
-** Delete: Remove unwanted items from SharePoint lists in a straightforward and secure manner.  **
-** User-Friendly Interface: Our app offers an intuitive and user-friendly interface, ensuring that both experienced SharePoint administrators and beginners can work efficiently. **
-** Automation: Take advantage of automation capabilities to schedule routine tasks or respond to specific triggers. **
+#### Create: Effortlessly add new items to SharePoint lists with just a few clicks.
+#### Retrieve: Retrieve and display data from SharePoint lists with ease, ensuring you always have the information you need at your fingertips.
+#### Update: Seamlessly update existing records, maintaining data accuracy and relevance.
+#### Delete: Remove unwanted items from SharePoint lists in a straightforward and secure manner.
+#### User-Friendly Interface: Our app offers an intuitive and user-friendly interface, ensuring that both experienced SharePoint administrators and beginners can work efficiently.
+#### Automation: Take advantage of automation capabilities to schedule routine tasks or respond to specific triggers.
 
 ## Used SharePoint Framework Version
 
